@@ -1,0 +1,12 @@
+This is my first GUI programming experience.
+
+I basically wanted a one click method for importing custom Gimp brushes I download, and came up with this.
+It is buit in python v2.7.2 and PyQt4
+
+only tested on Linux Mint 13
+will only work with Gimp 2.6
+
+Download your brush files to your desktop, type in your linux system username and press the install gimp brush
+button. Voila, you instantly have your brushes in gimp.
+
+
